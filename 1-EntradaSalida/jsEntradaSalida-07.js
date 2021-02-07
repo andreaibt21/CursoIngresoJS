@@ -5,6 +5,9 @@ mostrar el resulto por medio de "ALERT"
 ej.: "la Resta es 750"*/ 
 function sumar()
 {	
+	let numeroUno = 
+	txtIdNumeroUno
+	txtIdNumeroDos
 	alert("ok");	
 }
 
